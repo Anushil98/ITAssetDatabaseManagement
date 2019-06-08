@@ -1,0 +1,35 @@
+Sl
+Name
+Cheqque No. 4-6 digit
+Department
+Loacation
+Employee Category OFFICERS CONSULTANT UNIONISED SITE COMMON NA
+IT Reference-No/Asset No. Alphanumeric
+Accouts Asset No. Aplhanumeric
+Type LT NW PC PLT SR VC AC
+Make Aplhanumeric
+Model Aplhanumeric
+Machine Serial Alphanumeric
+DOP Calender
+Current Status Working NotWorking Scrap
+Processor Aplhanumeric
+Speed(GigaHz) Aplhanumeric
+HDD Aplhanumeric
+RAM Aplphanumeric
+USB Status Closed Open
+Date Of PM Calender
+OS(All The os's)
+MS OFFICE (Office verison 7 10 13 16)
+DeskTop Banner (Y/N)
+ADOBE X PRO (Y/N)
+Freeware (Y/N)
+MS Project (Y/N)
+AutoCad (Y/N)
+SolidEdge (Y/N)
+Femap (Y/N)
+StaadPro (Y/N)
+Tekla (Y/N)
+SolidWorks (Y/N)
+Trend Micro (Y/N)
+SAP (Y/N)
+Remarks Alphanumeirc
